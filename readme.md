@@ -17,3 +17,5 @@
 * 1/2 eggs
 * oil and karam
 
+## neyyi karam dosa
+* dosa batter
