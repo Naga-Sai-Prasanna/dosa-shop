@@ -9,11 +9,15 @@
 * oil
 * erra karam
 
-
-
 	
 ## Egg Dosa
 * dosa batter
 * 1/2 eggs
 * oil and karam
 
+
+##  paneer dosa
+* dosa batter
+* paneer
+* carrot and beetrrot
+* ghee
